@@ -8,5 +8,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <cstdarg>
+#include <cctype>
 
 using namespace std;
